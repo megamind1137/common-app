@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.ms.common.CommonAppApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.463 s - in com.ms.common.CommonAppApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.096 s - in com.ms.common.CommonAppApplicationTests
