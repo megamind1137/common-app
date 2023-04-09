@@ -37,7 +37,7 @@ public class SecurityConfig {
 	private static final String[] SECURED_URLs = { "" };
 
 	private static final String[] UN_SECURED_URLs = { "/authenticate/**", "/swagger-ui/**", "/resources/**",
-			"/v3/api-docs/**" };
+			"/v3/api-docs/**", "/api/v1/user/save" };
 
 	@Autowired
 	private JWTAuthenticationFilter authenticationFilter;
